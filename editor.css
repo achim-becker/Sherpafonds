@@ -1,0 +1,80 @@
+body {
+    font-size: 14px;
+	font-family: "MyriadPro", Verdana, Arial, "sans-serif";
+}
+
+img { border: 0 none; }
+.clearfix { clear: both; }
+
+a {
+	color: #2FA0C5;	
+	text-decoration: none;
+}
+
+a:hover, a:focus { color: #6DD4FC; text-decoration: underline;}
+
+/*
+h1, h2, h3 {font-family: 'Shadows Into Light', cursive;}
+h1, h2, h3 {font-family: 'Indie Flower', cursive;}
+*/
+
+h1 { 
+	margin: 27px 0 27px;
+	float: left;
+	width: 100%;
+	color: #2FA0C5; 
+	color: hsla(195, 61%, 43%, 1); 	
+	font-size: 200%; 
+	font-weight: bold; 
+}
+
+h2 { 
+	margin: 27px 0 17px;
+	color: #2FA0C5;
+	color: hsla(195, 61%, 48%, 1); 
+	font-size: 150%; 
+	font-weight: bold; 
+}
+
+h3 { 
+	margin: 17px 0 12px;
+	font-size: 130%;
+	font-weight: bold; 
+}
+
+td {
+	font-size: 14px;
+}
+
+dt {
+	font-weight: bold;
+}
+
+dd {
+	margin-bottom: 10px;
+}
+
+.bild_links {
+	float: left;
+	margin: 0 10px 10px 0;
+}
+
+.bild_rechts {
+	float: right;
+	margin: 0 0 10px 10px;
+}
+
+/* tinymce */
+/*
+#tinymce p {
+	font-size: 16px;
+}
+
+#tinymce h1 { color: #2FA0C5; font-size: 32px; font-weight: bold; }
+#tinymce h2 { color: #2FA0C5; font-size: 24px; font-weight: bold; }
+#tinymce h3 { font-size: 150%: font-weight: bold; }
+
+#tinymce td {
+	font-size: 16px;
+}
+*/
